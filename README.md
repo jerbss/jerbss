@@ -4,11 +4,11 @@
 
 🎓 **Graduação**
 
-> Atualmente estou cursando **Sistemas e Mídias Digitais** na Universidade Federal do Ceará (UFC).
+> _Atualmente estou cursando **Sistemas e Mídias Digitais** na Universidade Federal do Ceará (UFC)._
 
 🚀 **Por que Desenvolvimento Back-End?**
 
-> Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença.
+> _Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença._
 
 ---
 
@@ -37,15 +37,15 @@ Como desenvolvedor back-end no projeto **CadêURacha**, uso Django para implemen
 ### 🎯 Meus Objetivos
 
 <ul>
-  <li>Conquistar meu primeiro estágio como <strong>Desenvolvedor Back-End</strong>, ganhando experiência prática e crescendo profissionalmente.</li>
-  <li>Contribuir para <strong>projetos de código aberto</strong>, melhorando minhas habilidades e aprendendo com a comunidade.</li>
-  <li>Aprender e dominar ferramentas como <strong>Docker</strong> e <strong>Kubernetes</strong>, ampliando minha expertise técnica.</li>
-  <li>Obter <strong>certificações em tecnologias como AWS ou Azure</strong>, consolidando minha base de conhecimentos.</li>
-  <li>Participar de <strong>hackathons</strong> e competições de programação para desafiar minha criatividade e habilidades.</li>
-  <li>Construir um portfólio de projetos pessoais que mostrem minhas capacidades e paixão pelo desenvolvimento back-end.</li>
-  <li>Melhorar meu domínio de <strong>testes automatizados</strong> e práticas de <strong>DevOps</strong> para entregar projetos mais robustos e confiáveis.</li>
-  <li>Ampliar minha <strong>rede de contatos profissionais</strong>, conectando-me a pessoas inspiradoras na área de tecnologia.</li>
-  <li>Manter-me atualizado com as <strong>tendências e melhores práticas</strong> do mercado, sempre buscando a excelência.</li>
+  <li>Conquistar meu primeiro estágio como <strong>Desenvolvedor Back-End</strong>, aplicando conceitos de arquitetura, banco de dados e APIs para resolver desafios reais e ganhar experiência prática.</li>
+  <li>Aprofundar meus conhecimentos em frameworks como Django e Spring Boot, dominando as ferramentas essenciais para construir sistemas robustos e escaláveis.</li>
+  <li>Desenvolver habilidades em Docker e Kubernetes, explorando como essas tecnologias otimizam o desenvolvimento e a implantação de aplicações back-end.</li>
+  <li>Obter certificações técnicas em plataformas como AWS ou Azure, solidificando minha compreensão sobre computação em nuvem para back-end.</li>
+  <li>Criar e publicar projetos de impacto, que demonstrem minha capacidade de desenvolver e integrar sistemas back-end eficientes.</li>
+  <li>Aprimorar habilidades em testes automatizados e TDD (Desenvolvimento Orientado a Testes), garantindo maior confiabilidade e qualidade nos sistemas que construo.</li>
+  <li>Participar de hackathons ou desafios focados em desenvolvimento back-end, para testar e ampliar meu conhecimento em um ambiente competitivo.</li>
+  <li>Expandir minha experiência com bancos de dados, desde modelagem eficiente até otimização de consultas SQL e práticas de banco de dados NoSQL.</li>
+  <li>Manter-me atualizado com tendências e boas práticas em desenvolvimento back-end, como microserviços, APIs RESTful e GraphQL.</li>
 </ul>
 
 ---
