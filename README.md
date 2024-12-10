@@ -2,7 +2,8 @@
 
 ## Back-End Developer
 
-🎓 I'm currently pursuing a degree in **Digital Systems and Media** at the Federal University of Ceará (UFC).  
+🎓 I'm currently pursuing a degree in **Digital Systems and Media** at the Federal University of Ceará (UFC).
+
 🚀 **Why Back-End Development?** I fell in love with technology because it lets me solve complex problems, build robust systems, and create magic behind the scenes. Every project is an adventure filled with opportunities to learn, create, and make a difference.
 
 ---
