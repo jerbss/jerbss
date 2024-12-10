@@ -6,7 +6,7 @@
 - **Curso**: Sistemas e Mídias Digitais pela Universidade Federal do Ceará (UFC).
 
 ### 🚀 Motivação Profissional
-- Encontro na tecnologia uma ferramenta poderosa para resolver problemas complexos e desenvolver soluções inovadoras. Cada projeto representa uma oportunidade de criar impacto e aprender continuamente.
+- **Inspiração Tecnológica**: Encontro na tecnologia uma ferramenta poderosa para resolver problemas complexos e desenvolver soluções inovadoras. Cada projeto representa uma oportunidade de criar impacto e aprender continuamente.
 
 ---
 
