@@ -26,15 +26,9 @@ Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, u
 
 ### 🎯 Meus Objetivos
 <ul>
-  <li>Conseguir um estágio como <strong>Desenvolvedor Back-End</strong> para ganhar experiência prática e aprender com profissionais da área.</li>
-  <li>Contribuir para projetos de código aberto, ajudando a comunidade e aprimorando minhas habilidades.</li>
-  <li>Participar de hackathons e competições de programação para testar meus conhecimentos e me desafiar.</li>
-  <li>Desenvolver um portfólio de projetos pessoais que mostrem minhas capacidades e criatividade.</li>
-  <li>Fazer networking com outros profissionais de tecnologia para trocar experiências e aprender juntos.</li>
-  <li>Obter certificações relevantes, como AWS ou Azure, para expandir minha expertise e aumentar minhas oportunidades de carreira.</li>
-  <li>Aplicar práticas de Design Patterns e arquitetura de software para construir sistemas mais escaláveis e sustentáveis.</li>
-  <li>Expandir minha experiência com metodologias ágeis, como Scrum ou Kanban, para melhorar a eficiência do desenvolvimento de software.</li>
-  <li>Realizar tarefas de manutenção preventiva e otimização de código para melhorar o desempenho dos sistemas existentes.</li>
+  <li>Conquistar um estágio como <strong>Desenvolvedor Back-End</strong>.</li>
+  <li>Contribuir para projetos de código aberto e participar de hackathons.</li>
+  <li>Criar um portfólio impactante e fortalecer meu networking.</li>
 </ul>
 
 ---
