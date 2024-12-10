@@ -1,14 +1,14 @@
-# Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Mão acenando"> Meu nome é Jerbesson
+# Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Mão acenando"> Eu sou Jerbesson!
 
 ## Desenvolvedor Back-End
 
 🎓 **Graduação**
 
-Atualmente estou cursando **Sistemas e Mídias Digitais** na Universidade Federal do Ceará (UFC).
+> Atualmente estou cursando **Sistemas e Mídias Digitais** na Universidade Federal do Ceará (UFC).
 
 🚀 **Por que Desenvolvimento Back-End?**
 
-Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença.
+> Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença.
 
 ---
 
