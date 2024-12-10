@@ -37,15 +37,15 @@ Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeUR
 ### 🎯 Meus Objetivos
 
 <ul>
-  <li>Conquistar meu primeiro estágio como <strong>Desenvolvedor Back-End</strong>, aplicando conceitos de arquitetura, banco de dados e APIs para resolver desafios reais e ganhar experiência prática.</li>
-  <li>Aprofundar meus conhecimentos em frameworks como Django e Spring Boot, dominando as ferramentas essenciais para construir sistemas robustos e escaláveis.</li>
-  <li>Desenvolver habilidades em Docker e Kubernetes, explorando como essas tecnologias otimizam o desenvolvimento e a implantação de aplicações back-end.</li>
-  <li>Obter certificações técnicas em plataformas como AWS ou Azure, solidificando minha compreensão sobre computação em nuvem para back-end.</li>
-  <li>Criar e publicar projetos de impacto, que demonstrem minha capacidade de desenvolver e integrar sistemas back-end eficientes.</li>
-  <li>Aprimorar habilidades em testes automatizados e TDD (Desenvolvimento Orientado a Testes), garantindo maior confiabilidade e qualidade nos sistemas que construo.</li>
-  <li>Participar de hackathons ou desafios focados em desenvolvimento back-end, para testar e ampliar meu conhecimento em um ambiente competitivo.</li>
-  <li>Expandir minha experiência com bancos de dados, desde modelagem eficiente até otimização de consultas SQL e práticas de banco de dados NoSQL.</li>
-  <li>Manter-me atualizado com tendências e boas práticas em desenvolvimento back-end, como microserviços, APIs RESTful e GraphQL.</li>
+  <li>Conseguir um estágio como Desenvolvedor Back-End para ganhar experiência prática e aprender com profissionais da área.</li>
+  <li>Contribuir para projetos de código aberto, ajudando a comunidade e aprimorando minhas habilidades.</li>
+  <li>Aprender e dominar novas tecnologias como Docker e Kubernetes para melhorar meu conjunto de habilidades.</li>
+  <li>Obter certificações em tecnologias de back-end, como AWS ou Azure, para fortalecer meu currículo.</li>
+  <li>Participar de hackathons e competições de programação para testar meus conhecimentos e me desafiar.</li>
+  <li>Desenvolver um portfólio de projetos pessoais que mostrem minhas capacidades e criatividade.</li>
+  <li>Melhorar minhas habilidades em testes automatizados e práticas de DevOps para garantir a qualidade do meu trabalho.</li>
+  <li>Fazer networking com outros profissionais de tecnologia para trocar experiências e aprender juntos.</li>
+  <li>Manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento back-end para estar sempre à frente.</li>
 </ul>
 
 ---
