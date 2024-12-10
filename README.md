@@ -30,7 +30,7 @@
 
 Atualmente, faço parte de um projeto acadêmico empolgante chamado <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong> 🏀</a>, um sistema para mapear e organizar quadras públicas de basquete.  
 
-Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a>, uso Django para implementar funcionalidades principais. Recentemente, migrei o projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
+Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a> 🏀, uso Django para implementar funcionalidades principais. Recentemente, migrei o projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
 
 ---
 
@@ -53,6 +53,6 @@ Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeUR
 ### 🌍 Onde Me Encontrar
 - **Localização**: Fortaleza, Ceará, Brasil  
 - **Email**: [jerbessonc@alu.ufc.br](mailto:jerbessonc@alu.ufc.br)  
-- **Projeto em Andamento**: <a href="https://github.com/Syne-s/CadeURacha" target="_blank">CadêURacha</a>  
+- **Projeto em Andamento**: <a href="https://github.com/Syne-s/CadeURacha" target="_blank">CadêURacha</a> 🏀  
 
 ---
