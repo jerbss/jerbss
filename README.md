@@ -45,3 +45,11 @@ Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, u
 - **Projeto em Andamento**: [CadêURacha](https://github.com/Syne-s/CadeURacha) 🏀  
 
 ---
+
+<div align="center">
+
+  [![jerbss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerbss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerbss&layout=compact&theme=dark)](https://github.com/jerbss)
+
+</div>
