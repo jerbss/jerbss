@@ -2,13 +2,13 @@
 
 ## Desenvolvedor Back-End
 
-🎓 **Graduação**
+🎓 **Formação Acadêmica**
 
-> _Atualmente estou cursando **Sistemas e Mídias Digitais** na Universidade Federal do Ceará (UFC)._
+> _Graduando em Sistemas e Mídias Digitais pela Universidade Federal do Ceará (UFC)._
 
-🚀 **Por que Desenvolvimento Back-End?**
+🚀 **Motivação Profissional**
 
-> _Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença._
+> _Encontro na tecnologia uma ferramenta poderosa para resolver problemas complexos e desenvolver soluções inovadoras. Cada projeto representa uma oportunidade de criar impacto e aprender continuamente._
 
 ---
 
@@ -26,11 +26,11 @@
 
 ---
 
-### 🔥 No Que Estou Trabalhando Agora
+### 🔥 Projeto em Desenvolvimento
 
-Atualmente, faço parte de um projeto acadêmico empolgante chamado <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a> 🏀, um sistema para mapear e organizar quadras públicas de basquete.  
+Atualmente, faço parte de um projeto acadêmico chamado <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a> 🏀, um sistema para mapear e organizar quadras públicas de basquete.  
 
-Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a> 🏀, uso Django para implementar funcionalidades principais. Recentemente, migrei o projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
+Como Desenvolvedor Back-End no projeto <a href="https://github.com/Syne-s/CadeURacha" target="_blank"><strong>CadêURacha</strong></a> 🏀, uso Django para implementar funcionalidades principais. Recentemente, migrei o banco de dados do projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
 
 ---
 
@@ -39,14 +39,15 @@ Como desenvolvedor back-end no projeto <a href="https://github.com/Syne-s/CadeUR
 <ul>
   <li>Conseguir um estágio como Desenvolvedor Back-End para ganhar experiência prática e aprender com profissionais da área.</li>
   <li>Contribuir para projetos de código aberto, ajudando a comunidade e aprimorando minhas habilidades.</li>
-  <li>Aprender e dominar novas tecnologias como Docker e Kubernetes para melhorar meu conjunto de habilidades.</li>
-  <li>Obter certificações em tecnologias de back-end, como AWS ou Azure, para fortalecer meu currículo.</li>
   <li>Participar de hackathons e competições de programação para testar meus conhecimentos e me desafiar.</li>
   <li>Desenvolver um portfólio de projetos pessoais que mostrem minhas capacidades e criatividade.</li>
-  <li>Melhorar minhas habilidades em testes automatizados e práticas de DevOps para garantir a qualidade do meu trabalho.</li>
   <li>Fazer networking com outros profissionais de tecnologia para trocar experiências e aprender juntos.</li>
-  <li>Manter-me atualizado com as últimas tendências e melhores práticas em desenvolvimento back-end para estar sempre à frente.</li>
+  <li>Obter certificações relevantes, como AWS ou Azure, para expandir minha expertise e aumentar minhas oportunidades de carreira.</li>
+  <li>Aplicar práticas de Design Patterns e arquitetura de software para construir sistemas mais escaláveis e sustentáveis.</li>
+  <li>Expandir minha experiência com metodologias ágeis, como Scrum ou Kanban, para melhorar a eficiência do desenvolvimento de software.</li>
+  <li>Realizar tarefas de manutenção preventiva e otimização de código para melhorar o desempenho dos sistemas existentes.</li>
 </ul>
+
 
 ---
 
