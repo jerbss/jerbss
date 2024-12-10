@@ -1,53 +1,45 @@
-# Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Hand waving"> My name is Jerbesson
+# Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Mão acenando"> Meu nome é Jerbesson
 
-## Back-End Developer
+## Desenvolvedor Back-End
 
-🎓 I'm currently pursuing a degree in **Digital Systems and Media** at the Federal University of Ceará (UFC).
+🎓 Atualmente estou cursando **Sistemas Digitais e Mídias** na Universidade Federal do Ceará (UFC).
 
-🚀 **Why Back-End Development?** I fell in love with technology because it lets me solve complex problems, build robust systems, and create magic behind the scenes. Every project is an adventure filled with opportunities to learn, create, and make a difference.
-
----
-
-### 🔧 My Favorite Tools and Technologies
-
-#### **Languages**
-- Java ☕  
-- Python 🐍  
-- JavaScript 🌐  
-
-#### **Frameworks**
-- Spring Boot 💼  
-- Django 🌟  
-- Node.js ⚙️  
-
-#### **Databases**
-- PostgreSQL 🐘  
-- MySQL 🗄️  
-
-#### **Others**
-- **Architecture**: MVC 🏛️  
-- **Version Control**: Git 🧑‍💻 | GitHub 🖇️  
+🚀 **Por que Desenvolvimento Back-End?** Eu me apaixonei pela tecnologia porque ela me permite resolver problemas complexos, construir sistemas robustos e criar mágica nos bastidores. Cada projeto é uma aventura cheia de oportunidades para aprender, criar e fazer a diferença.
 
 ---
 
-### 🔥 What I'm Working On Now
+### 🔧 Minhas Ferramentas e Tecnologias Favoritas
 
-I'm currently part of an exciting academic project called **Synes - CadêURacha** 🏀, a system for mapping and organizing public basketball courts.  
+<p align="center">
 
-As the back-end developer, I use Django to implement core functionalities. Recently, I migrated the project to PostgreSQL and deployed it on Railway, expanding its capabilities and scalability. This hands-on experience has been both challenging and rewarding!
+| **Linguagens** | **Frameworks** | **Bancos de Dados** | **Outros** |
+| --- | --- | --- | --- |
+| Java ☕ | Spring Boot 💼 | PostgreSQL 🐘 | **Arquitetura**: MVC 🏛️ |
+| Python 🐍 | Django 🌟 | MySQL 🗄️ | **Controle de Versão**: Git 🧑‍💻 | GitHub 🖇️ |
+| JavaScript 🌐 | Node.js ⚙️ | | |
+
+</p>
 
 ---
 
-### 🎯 My Goals
-- Build a strong career as a Back-End Developer.  
-- Explore and create innovative solutions using emerging technologies.  
-- Keep learning and sharing my progress here!  
+### 🔥 No Que Estou Trabalhando Agora
+
+Atualmente, faço parte de um projeto acadêmico empolgante chamado **Synes - CadêURacha** 🏀, um sistema para mapear e organizar quadras públicas de basquete.  
+
+Como desenvolvedor back-end, uso Django para implementar funcionalidades principais. Recentemente, migrei o projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
 
 ---
 
-### 🌍 Where to Find Me
-- **Location**: Fortaleza, Ceará, Brazil  
+### 🎯 Meus Objetivos
+- Construir uma carreira sólida como Desenvolvedor Back-End.  
+- Explorar e criar soluções inovadoras usando tecnologias emergentes.  
+- Continuar aprendendo e compartilhando meu progresso aqui!  
+
+---
+
+### 🌍 Onde Me Encontrar
+- **Localização**: Fortaleza, Ceará, Brasil
 - **Email**: [jerbessonc@alu.ufc.br](mailto:jerbessonc@alu.ufc.br)  
-- **Ongoing Project**: [CadêURacha](http://cade-u-racha.up.railway.app/)  
+- **Projeto em Andamento**: [CadêURacha](http://cade-u-racha.up.railway.app/)  
 
 ---
