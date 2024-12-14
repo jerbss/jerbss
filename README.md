@@ -42,8 +42,10 @@ Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, u
 
 <div align="center">
 
+
   ![My Skills](https://skillicons.dev/icons?i=java,python,js,spring,django,nodejs,postgres,mysql,git)
   
+---
 
   [![jerbss's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerbss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
