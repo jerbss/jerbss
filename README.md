@@ -1,6 +1,6 @@
 # Olá! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="Mão acenando"> Eu sou Jerbesson!
 
-## Desenvolvedor Back-End
+## Desenvolvedor Full Stack
 
 ### 🎓 Formação Acadêmica
 - **Curso**: Sistemas e Mídias Digitais pela Universidade Federal do Ceará (UFC).
@@ -26,7 +26,7 @@ Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, u
 
 ### 🎯 Meus Objetivos
 <ul>
-  <li>Conquistar um estágio como <strong>Desenvolvedor Back-End</strong>.</li>
+  <li>Conquistar um estágio como <strong>Desenvolvedor Full Stack</strong>.</li>
   <li>Contribuir para projetos de código aberto e participar de hackathons.</li>
   <li>Criar um portfólio impactante e fortalecer meu networking.</li>
 </ul>
