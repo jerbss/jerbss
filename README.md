@@ -20,7 +20,7 @@
 ---
 
 ### 🔥 Projeto em Desenvolvimento
-Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, um sistema para mapear e organizar quadras públicas de basquete. Como Desenvolvedor Back-End no projeto **CadêURacha** 🏀, uso Django para implementar funcionalidades principais. Recentemente, migrei o banco de dados do projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
+Atualmente, faço parte de um projeto acadêmico chamado **CadêURacha** 🏀, um sistema para mapear e organizar quadras públicas de basquete. Como Desenvolvedor Full Stack no projeto **CadêURacha** 🏀, uso Django para implementar funcionalidades principais. Recentemente, migrei o banco de dados do projeto para PostgreSQL e o implantei no Railway, expandindo suas capacidades e escalabilidade. Esta experiência prática tem sido desafiadora e gratificante!
 
 ---
 
