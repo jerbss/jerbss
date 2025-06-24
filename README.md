@@ -37,7 +37,7 @@ Para mim, um bom back-end é o que permite um front-end excelente. Meu trabalho 
 ### 🏀 Cadê o Racha?
 *Projeto acadêmico (Full Stack) - [Ver no GitHub](https://github.com/Syne-s/CadeURacha)*
 
-- Comecei este projeto para resolver um problema que meus colegas de classe tinha como jogadores de basquete: encontrar uma quadra livre para jogar.
+- Comecei este projeto para resolver um problema que meus colegas de classe tinham como jogadores de basquete: encontrar uma quadra livre para jogar.
 - Construí toda a API REST com Django e DRF, modelei o banco de dados em PostgreSQL e fiz o deploy completo da aplicação no Railway.
 
 **Tecnologias:** Django, DRF, PostgreSQL, Python, Railway
