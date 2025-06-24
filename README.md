@@ -5,7 +5,7 @@ Sou Desenvolvedor Full-Stack. Gosto de entender o problema a fundo, desenhar a s
 Para mim, um bom back-end é o que permite um front-end excelente. Meu trabalho é fazer com que as duas partes conversem da melhor forma possível para entregar um produto sólido e coeso.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jerbs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jerbessonc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
